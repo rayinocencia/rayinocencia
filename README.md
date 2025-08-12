@@ -1,6 +1,14 @@
 ### Oi! Eu sou a Ray IS👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Estácio e formada em Cenografia pela UFRJ. Durante minha experiência profissional, tive a oportunidade de trabalhar como estagiária na TV Globo, onde atuei no setor de videografismo e apliquei meus conhecimentos em SQL e VBScript para implementar artes em banco de dados Postgre. Também fiz parte do grupo Game Dev Project (GDP) da UFRJ, onde desenvolvíamos jogos utilizando técnicas de design e programação em JavaScript. Além disso, participei da Miverna E-sports, onde trabalhei com edição de vídeos e design, e tive a oportunidade de criar posters para redes sociais e automatizar o processo de criação de artes padronizadas. Sou uma pessoa comunicativa, colaborativa e comprometida, e estou sempre disposta a aprender e crescer profissionalmente.
+Sou Rayane, uma profissional apaixonada por tecnologia e design. Formada em Análise e Desenvolvimento de Sistemas (Estácio) e Cenografia (UFRJ), possuo experiência em VB, C, JavaScript, React, SQL, Python , Swift e Git.
+
+Confira alguns dos meus projetos no GitHub: GitHub - rayinocencia
+
+Atuei na TV Globo, aplicando SQL e VBScript para implementar artes em banco de dados. Participei do grupo Game Dev Project (GDP) da UFRJ, desenvolvendo jogos inovadores em JavaScript.
+
+Na Miverna E-sports, trabalhei com edição de vídeos, design e automatização de criação de artes.
+
+Sou comunicativa, colaborativa e comprometida, sempre em busca de aprender e crescer profissionalmente.
 
 
 ![Rayane Inocencia Stats](https://github-readme-stats.vercel.app/api?username=rayinocencia&icons=true&theme=transparent)
